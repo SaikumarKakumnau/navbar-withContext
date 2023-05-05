@@ -1,0 +1,47 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.main-not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100vw;
+  height: 100vh;
+}
+
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+  width: 100%;
+}
+
+.not-found-image {
+  width: 20%;
+}
+
+.not-found-dark {
+  background-color: #333333;
+}
+
+.not-found-light {
+  background-color: white;
+}
+
+.not-found-dark-heading {
+  color: white;
+}
+
+.not-found-light-heading {
+  color: #000000;
+}
+
+.not-found-dark-desc {
+  color: white;
+}
+
+.not-found-light-desc {
+  color: #000000;
+}
